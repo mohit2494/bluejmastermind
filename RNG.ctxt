@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RNG
+comment0.text=\n\ The\ RNG\ class\ will\ specify\ the\ attributes\ and\ behaviours\ of\ generating\ \n\ random\ numbers\ which\ will\ be\ used\ by\ the\ Game\ class.\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=maximumValue
+comment1.target=RNG(int)
+comment1.text=\n\ Class\ constructor\n
+comment2.params=
+comment2.target=int\ generateRandomNumber()
+comment2.text=\n\ Function\ for\ generating\ a\ random\ number\ b/w\n\ minimumValue\ and\ maximumValue\n
+numComments=3

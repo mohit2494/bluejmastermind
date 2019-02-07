@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\n\ The\ FileIO\ class\ will\ specify\ the\ attributes\ and\ \n\ behaviours\ for\ reading\ and\ writing\ to\ a\ file.\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=FileIO()
+comment1.text=\n\ Function\ for\ reading\ input\ file\n
+comment2.params=
+comment2.target=int\ getMaxPegs()
+comment2.text=\n\ Function\ returns\ maximum\ pegs\ as\ \n\ stored\ in\ settings\ file\n
+comment3.params=
+comment3.target=java.util.List\ getColorsInFile()
+comment3.text=\n\ Get\ colors\ in\ file\n
+comment4.params=text
+comment4.target=boolean\ addToLog(java.lang.String)
+comment5.params=
+comment5.target=boolean\ writeToFile()
+numComments=6

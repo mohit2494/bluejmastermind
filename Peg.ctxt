@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Peg
+comment0.text=\n\ The\ Peg\ class\ will\ specify\ the\ attributes\ and\ behaviours\ of\ a\ single\ coloured\ peg\ \n\ which\ can\ be\ used\ within\ any\ guess\ sequence\ within\ the\ game.\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=color\ value
+comment1.target=Peg(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=\n\ Function\ returns\ color\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\n\ Function\ returns\ string\ value\n
+numComments=4

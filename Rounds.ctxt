@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Rounds
+comment0.text=\n\ The\ rounds\ class\ if\ for\ handling\ the\ number\ of\ rounds\ in\ the\ game.\ \n\ As\ per\ assignment,\ here's\ the\ description\ \:\ \n\ The\ Rounds\ class\ will\ specify\ the\ attributes\ and\ behaviours\ of\ \n\ all\ the\ rounds\ within\ the\ game.\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Rounds()
+comment1.text=\n\ Class\ constructor\n
+comment2.params=
+comment2.target=int\ getMaxRounds()
+comment2.text=\n\ return\ maxRounds\n
+comment3.params=
+comment3.target=java.util.List\ getAllColors()
+comment3.text=\n\ Function\ returns\ all\ colors\n
+comment4.params=
+comment4.target=int\ getMaxPegsPerRound()
+comment4.text=\n\ return\ maxRounds\n
+comment5.params=
+comment5.target=ColorGrid\ createComputerGrid()
+comment6.params=
+comment6.target=boolean\ writeGuessessToFile()
+comment6.text=\ \n\ \n
+comment7.params=colors
+comment7.target=java.util.ArrayList\ getScoreAddGuess(java.util.ArrayList)
+numComments=8

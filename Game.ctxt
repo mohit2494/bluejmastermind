@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ Game\ class\ is\ responsible\ for\ initiating\ the\ game,\ reading\ the\ file,\ loading\ the\ settings,\ interacting\ with\n\ the\ other\ classes,\ and\ writing\ to\ the\ file\ when\ the\ game\ ends.\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ [main\ description]\n\ @param\ args\ [description]\n
+comment2.params=fileObject
+comment2.target=boolean\ printMessage(FileIO)
+numComments=3

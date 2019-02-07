@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ColorGrid
+comment0.text=\n\ The\ ColorGrid\ class\ will\ specify\ the\ attributes\ and\ behaviours\ \n\ of\ all\ coloured\ peg\ sequences\ within\ the\ game.\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=noOfPegs
+comment1.target=ColorGrid(int)
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=int\ getNumberOfPegs()
+comment2.text=\n\ function\ returns\ number\ of\ pegs\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getPegs()
+comment3.text=\n\ Function\ returns\ pegs\n
+comment4.params=peg
+comment4.target=boolean\ addPeg(Peg)
+comment5.params=colors
+comment5.target=boolean\ createColorGrid(java.util.List)
+comment5.text=\n\ Function\ creates\ color\ grids\n
+numComments=6
